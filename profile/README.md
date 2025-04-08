@@ -13,46 +13,46 @@
   <tr align="center">
     <td>
       <img src="https://github.com/jwywoo.png?size=100" width="120" height="120"><br>
-      <b>Wooyong Jeong (Woo)</b><br>
+      <b>정우용</b><br>
       <a href="https://github.com/jwywoo">GitHub</a><br>
-      <i>AI Generation</i>
+      <i>AI + Frontend</i>
     </td>
     <td>
-      <img src="https://github.com/0like2.png?size=100" width="120" height="120"><br>
-      <b>이영락 (Daniel)</b><br>
-      <a href="https://github.com/0like2">GitHub</a><br>
-      <i>AI Rec-System</i>
+      <img src="https://github.com/HminiL.png?size=100" width="120" height="120"><br>
+      <b>이혜민</b><br>
+      <a href="https://github.com/HminiL">GitHub</a><br>
+      <i>Backend</i>
     </td>
     <td>
-      <img src="https://github.com/hnnynh.png?size=100" width="120" height="120"><br>
-      <b>한윤호 (Uno)</b><br>
-      <a href="https://github.com/hnnynh">GitHub</a><br>
-      <i>Cloud Engineer</i>
+      <img src="https://github.com/homebdy.png?size=100" width="120" height="120"><br>
+      <b>김연진</b><br>
+      <a href="https://github.com/homebdy">GitHub</a><br>
+      <i>Backend</i>
     </td>
     <td>
-      <img src="https://github.com/sortOps.png?size=100" width="120" height="120"><br>
-      <b>강세훈 (Ethan)</b><br>
-      <a href="https://github.com/sortOps">GitHub</a><br>
-      <i>Cloud Engineer</i>
+      <img src="https://github.com/Hugh-KR.png?size=100" width="120" height="120"><br>
+      <b>신창혁</b><br>
+      <a href="https://github.com/Hugh-KR">GitHub</a><br>
+      <i>Backend</i>
     </td>
     <td>
-      <img src="https://github.com/hyoom.png?size=100" width="120" height="120"><br>
-      <b>황윤미 (Mia)</b><br>
-      <a href="https://github.com/hyoom">GitHub</a><br>
-      <i>Backend + PM</i>
+      <img src="https://github.com/HoSungChoo.png?size=100" width="120" height="120"><br>
+      <b>추호성</b><br>
+      <a href="https://github.com/HoSungChoo">GitHub</a><br>
+      <i>Backend</i>
     </td>
     <td>
-      <img src="https://github.com/PARK-SSOYEON.png?size=100" width="120" height="120"><br>
-      <b>박소연 (Ellie)</b><br>
-      <a href="https://github.com/PARK-SSOYEON">GitHub</a><br>
-      <i>Frontend + UI/UX</i>
+      <img src="https://github.com/pjho4746.png?size=100" width="120" height="120"><br>
+      <b>박지호</b><br>
+      <a href="https://github.com/pjho4746">GitHub</a><br>
+      <i>Backend</i>
     </td>
-    <td>
-      <img src="https://via.placeholder.com/100" width="120" height="120"><br>
-      <b>Contributor 7</b><br>
-      <a href="#">GitHub</a><br>
-      <i>Role</i>
-    </td>
+     <td>
+      <img src="https://github.com/platypus3036.png?size=100" width="120" height="120"><br>
+      <b>배재유</b><br>
+      <a href="https://github.com/platypus3036">GitHub</a><br>
+      <i>Backend</i>
+     </td>
   </tr>
 </table>
 
