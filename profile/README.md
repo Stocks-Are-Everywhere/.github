@@ -73,10 +73,10 @@
 
 | Contributor               | Responsibilities                                                                                                                                                                                             |
 |---------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **김연진/ (영문)**        | Set up CI/CD pipelines, Dockerized the application, and handled deployment.                                                                                                                                  |
-| **배재유/ (영문)**        | Designed UI/UX prototypes, brand assets, and ensured accessibility and visual consistency.                                                                                                                   |
-| **신창혁/ (영문)**        | Oversaw project timeline, coordinated between team members, and managed backlog in Notion.                                                                                                                   |
-| **이혜민/ (영문)**        | Built and maintained RESTful APIs, handled database schema design using PostgreSQL.                                                                                                                          |
+| **김연진/ (영문)**        | N/A                                            |
+| **배재유/ (영문)**        | N/A                                            |
+| **신창혁/ (영문)**        | N/A                                            |
+| **이혜민/ (영문)**        | N/A                                            |
 | **정우용/ Wooyong Jeong** | (LLM Application) 사용자 페이지 기반 주식 종목 반환 LLM Application 서버 및 고도화 (Backend) Social Login 및 관련 CRUD 구현 (Frontend) 사용자 페이지 정보 획득을 위한 Chrome Extension 구현 및 Client 최적화 |
 
 ---
@@ -85,8 +85,8 @@
 
 | Feature / Module           | Contributor(s)      | Description                                                   | Link                                                                                                                                                                                                                                          |
 |----------------------------|---------------------|---------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Backend                    | 사람1, 사람2, 사람3 | Backend~                                                      | [View Code](https://github.com/your-repo/link-to-rec)                                                                                                                                                                                         |
-| Frontend                   | 사람1, 사람2, 사람3 | Frontend~                                                     | [View Code](https://github.com/your-repo/link-to-rec)                                                                                                                                                                                         |
+| Backend                    | N/A | Backend~                                                      | [View Code](https://github.com/your-repo/link-to-rec)                                                                                                                                                                                         |
+| Frontend                   | N/A | Frontend~                                                     | [View Code](https://github.com/your-repo/link-to-rec)                                                                                                                                                                                         |
 | Frontend: 최적화           | 정우용              | Client 최적화: Project Structure, Utility Based Styling & CLS | [최적화 적용 브랜치 저장소](https://github.com/Stocks-Are-Everywhere/frontend/tree/user/jwywoo/refactor/%2336)                                                                                                                                |
 | Frontend: Chrome Extension | 정우용              | 사용자 페이지 정보 수직을 위한 크롬익스텐션                   | [서비스 저장소](https://github.com/Stocks-Are-Everywhere/chrome-extension)                                                                                                                                                                    |
 | LLM Application            | 정우용              | LLM Application~                                              | [개발 저장소 - MVP](https://github.com/jwywoo/SAE-AI-Feature-DEV), [서비스 저장소](https://github.com/Stocks-Are-Everywhere/ai-feature) - 진행중, [개발 저장소 - Agentic & Multi Agents](https://github.com/jwywoo/SAE-Multi-Agents) - 진행중 |
